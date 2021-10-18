@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "name": "Tetris",
+        "price": 50,
+        "size": [
+            21,
+            29.7
+        ],
+        "format": "A4",
+        "data": "peinture_tetris.jpg",
+        "tag": [
+            "gouache",
+            "vegan", 
+            "france",
+            "abstrait"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Amandine",
+        "price": 25,
+        "size": [
+            21,
+            29.7
+        ],
+        "format": "A4",
+        "data": "peinture_amandine.jpg",
+        "tag": [
+            "gouache",
+            "vegan", 
+            "france",
+            "abstrait"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Carole",
+        "price": 30,
+        "size": [
+            21,
+            29.7
+        ],
+        "format": "A4",
+        "data": "peinture_carole.jpg",
+        "tag": [
+            "gouache",
+            "vegan", 
+            "france",
+            "abstrait"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Thomas",
+        "price": 20,
+        "size": [
+            42,
+            59.4
+        ],
+        "format": "A2",
+        "data": "peinture_thomas.jpg",
+        "tag": [
+            "gouache",
+            "vegan", 
+            "france",
+            "abstrait"
+        ]
+    }
+]
